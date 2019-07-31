@@ -1,16 +1,12 @@
 # flow_login_flutter
 
-A new Flutter project.
+A Flutter login screen with cool design and animation. :)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Animation by Flare 2Dimensions
 
-A few resources to get you started if this is your first Flutter project:
+The animation was built using Flare: [Flow Animation](https://www.2dimensions.com/a/willcavenagli/files/flare/flow-background/preview "Flow Animation")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Preview
+<img src="https://media.giphy.com/media/Ma1QoY5BfsSM2a5yM2/giphy.gif" width="250"/>
