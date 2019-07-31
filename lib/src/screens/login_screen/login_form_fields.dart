@@ -32,7 +32,6 @@ Widget emailField({double paddingTop}) {
 }
 
 Widget passwordField({double paddingTop}) {
-  print(paddingTop);
   return Padding(
     padding: EdgeInsets.only(top: paddingTop == null ? 30 : paddingTop),
     child: Material(
