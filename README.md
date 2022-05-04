@@ -7,7 +7,7 @@ A Flutter login screen with cool design and animation. :)
 
 ### Edit: This project uses an old version of Flare, now known as Rive.app
 
-The animation was built using Flare: [Flow Animation](https://www.2dimensions.com/a/willcavenagli/files/flare/flow-background/preview "Flow Animation")
+The animation was built using Flare: [Flow Animation](https://flare.rive.app/a/willcavenagli/files/flare/flow-background/preview)
 
 
 ### Preview
